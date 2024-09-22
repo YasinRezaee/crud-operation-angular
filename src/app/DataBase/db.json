@@ -1,0 +1,76 @@
+{
+  "prouctList": [
+    {
+      "id": "ac2b",
+      "productName": "hands free",
+      "productCategory": "option3",
+      "date": "2024-09-11T20:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 1,
+      "comment": "ecfewcewcercwe"
+    },
+    {
+      "id": "58d0",
+      "productName": "dvcdsc",
+      "productCategory": "option1",
+      "date": "2024-09-03T20:30:00.000Z",
+      "freshness": "Renovated",
+      "price": 3,
+      "comment": "dfvdsfv"
+    },
+    {
+      "id": "be13",
+      "productName": "keyBoard",
+      "productCategory": "option3",
+      "date": "2024-09-05T20:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 8,
+      "comment": "state of the art"
+    },
+    {
+      "id": "89b7",
+      "productName": "tv",
+      "productCategory": "Electronics",
+      "date": "2024-09-03T20:30:00.000Z",
+      "freshness": "Renovated",
+      "price": 3,
+      "comment": "dvd Fbdfbf"
+    },
+    {
+      "id": "eed9",
+      "productName": "gfnhgfn",
+      "productCategory": "Vegitables",
+      "date": "2024-09-02T20:30:00.000Z",
+      "freshness": "Renovated",
+      "price": 1,
+      "comment": "gfxn  xbhn  xnh"
+    },
+    {
+      "id": "205a",
+      "productName": "mousedscdsc",
+      "productCategory": "option3",
+      "date": "2024-09-04T20:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 5,
+      "comment": "it is completely renovated"
+    },
+    {
+      "id": "51c6",
+      "productName": ",hjhjvn",
+      "productCategory": null,
+      "date": "",
+      "freshness": "Brand New",
+      "price": 2,
+      "comment": "kjbjg"
+    },
+    {
+      "id": "d7db",
+      "productName": "ffffffffff",
+      "productCategory": "Fruits",
+      "date": "2024-09-03T20:30:00.000Z",
+      "freshness": "Renovated",
+      "price": 2,
+      "comment": "ffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    }
+  ]
+}
